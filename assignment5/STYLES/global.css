@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+body{
+    background-color: #b6d1da;
+}
+
+h1{
+    font-family: "Cinzel", serif;
+}
+
+h2{
+    font-family: "Cinzel", serif;
+    
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+}
+a{
+    color: #356d7f;
+}
+a:hover{
+    color: #1a3640;
+}
